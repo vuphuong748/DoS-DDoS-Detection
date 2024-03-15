@@ -1,0 +1,159 @@
+Normal Activity Detected at: 2023-11-06 21:33
+Packets collected: 17636
+
+Normal Activity Detected at: 2023-11-06 00:33
+Packets collected: 38
+
+Normal Activity Detected at: 2023-11-21 13:15
+Packets collected: 15431
+ 
+Normal Activity Detected at: 2023-11-21 13:16
+Packets collected: 16596
+ 
+Normal Activity Detected at: 2023-11-21 13:16
+Packets collected: 16969
+ 
+Normal Activity Detected at: 2023-11-21 13:17
+Packets collected: 17091
+ 
+Normal Activity Detected at: 2023-11-21 13:17
+Packets collected: 16373
+ 
+Normal Activity Detected at: 2023-11-21 13:18
+Packets collected: 17049
+ 
+Normal Activity Detected at: 2023-11-21 13:18
+Packets collected: 15749
+ 
+Normal Activity Detected at: 2023-11-21 13:19
+Packets collected: 16212
+ 
+Normal Activity Detected at: 2023-11-21 13:19
+Packets collected: 17169
+ 
+Normal Activity Detected at: 2023-11-21 13:20
+Packets collected: 16210
+ 
+Normal Activity Detected at: 2023-11-21 13:20
+Packets collected: 16344
+ 
+Normal Activity Detected at: 2023-11-21 13:21
+Packets collected: 16298
+ 
+Normal Activity Detected at: 2023-11-21 13:21
+Packets collected: 15353
+ 
+Normal Activity Detected at: 2023-11-21 13:22
+Packets collected: 15836
+ 
+Normal Activity Detected at: 2023-11-21 13:22
+Packets collected: 15269
+ 
+Normal Activity Detected at: 2023-11-21 13:23
+Packets collected: 17299
+ 
+Normal Activity Detected at: 2023-11-21 13:23
+Packets collected: 15696
+ 
+Normal Activity Detected at: 2023-11-21 13:24
+Packets collected: 16829
+ 
+Normal Activity Detected at: 2023-11-21 13:24
+Packets collected: 17406
+ 
+Normal Activity Detected at: 2023-11-21 13:25
+Packets collected: 15245
+ 
+Normal Activity Detected at: 2023-11-21 13:25
+Packets collected: 16480
+ 
+Normal Activity Detected at: 2023-11-21 13:26
+Packets collected: 15620
+ 
+Normal Activity Detected at: 2023-11-21 13:26
+Packets collected: 16291
+ 
+Normal Activity Detected at: 2023-11-21 13:27
+Packets collected: 16149
+ 
+Normal Activity Detected at: 2023-11-21 13:27
+Packets collected: 16343
+ 
+Normal Activity Detected at: 2023-11-21 13:28
+Packets collected: 16441
+ 
+Normal Activity Detected at: 2023-11-21 13:28
+Packets collected: 16468
+ 
+Normal Activity Detected at: 2023-11-21 13:29
+Packets collected: 16646
+
+Attack Detected at: 2023-12-06 03:42
+Packets collected: 3
+Attack Detected at: 2023-12-06 03:42
+Packets collected: 3
+
+Attack Detected at: 2023-12-04 23:50
+Packets collected: 4
+Attack Detected at: 2023-12-04 23:50
+Packets collected: 4
+
+Normal Activity Detected at: 2023-12-06 00:33
+Packets collected: 38
+ 
+Normal Activity Detected at: 2023-12-06 00:33
+Packets collected: 43
+ 
+Attack Detected at: 2023-12-06 00:34
+Packets collected: 52
+Attack Detected at: 2023-12-06 00:34
+Packets collected: 52
+
+Normal Activity Detected at: 2023-12-09 14:42
+Packets collected: 1
+ 
+Normal Activity Detected at: 2023-12-09 14:43
+Packets collected: 3
+ 
+Normal Activity Detected at: 2023-12-09 14:52
+Packets collected: 3
+ 
+Normal Activity Detected at: 2023-12-09 14:53
+Packets collected: 2
+ 
+Attack Detected at: 2023-12-09 15:25
+Packets collected: 3
+Attack Detected at: 2023-12-09 15:25
+Packets collected: 3
+Attack Detected at: 2023-12-09 17:42
+Packets collected: 3
+Attack Detected at: 2023-12-09 17:42
+Packets collected: 3
+Attack Detected at: 2023-12-11 19:03
+Packets collected: 5
+Attack Detected at: 2023-12-11 19:03
+Packets collected: 5
+Attack Detected at: 2023-12-11 19:15
+Packets collected: 1
+Attack Detected at: 2023-12-11 19:15
+Packets collected: 1
+Attack Detected at: 2023-12-11 19:22
+Packets collected: 1
+Attack Detected at: 2023-12-11 19:22
+Packets collected: 1
+Attack Detected at: 2023-12-11 19:24
+Packets collected: 15
+Attack Detected at: 2023-12-11 19:24
+Packets collected: 15
+Attack Detected at: 2023-12-11 19:32
+Packets collected: 5
+Attack Detected at: 2023-12-11 19:32
+Packets collected: 5
+Attack Detected at: 2023-12-12 07:59
+Packets collected: 3
+Attack Detected at: 2023-12-12 07:59
+Packets collected: 3
+Attack Detected at: 2023-12-12 15:54
+Packets collected: 2
+Attack Detected at: 2023-12-12 15:54
+Packets collected: 2
